@@ -1,6 +1,6 @@
-# Telemetry Lab - HIPER Android Performance Mini-Assignment
+# Telemetry Lab
 
-This project is an implementation of the HIPER Android Performance Mini-Assignment. It's an Android application designed to simulate and monitor a compute-intensive background task, built with a focus on performance, battery awareness, and modern Android development practices.
+This project is an implementation for Android Performance. It's an Android application designed to simulate and monitor a compute-intensive background task, built with a focus on performance, battery awareness, and modern Android development practices.
 
 ## Core Technologies
 
